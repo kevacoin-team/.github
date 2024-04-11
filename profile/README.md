@@ -32,6 +32,12 @@
 
   https://github.com/kevacoin-team/keva_ipfs
 
+- **Keva Stratum** - Mining Interface
+
+  *most recent in KevaOne GitHub*
+
+  https://github.com/kevaone/keva-stratum
+
 ### Tools
 - https://github.com/kevacoin-team/keva-api-js
 - https://github.com/kevacoin-team/kevacoin-js
