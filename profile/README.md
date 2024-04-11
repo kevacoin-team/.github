@@ -6,7 +6,7 @@
 
   https://github.com/kevacoin-team/kevacoin
 
-- :construction: **Kevacoin Core** - The evelution of the primary node/wallet for the Kevacoin blockchain.
+- :construction: **Kevacoin Core** - The evolution of the primary node/wallet for the Kevacoin blockchain.
 
   **:construction: under construction! :construction:**
 
@@ -33,6 +33,8 @@
   https://github.com/kevacoin-team/keva_ipfs
 
 - **Keva Stratum** - Mining Interface
+
+  **- requires Kevacoin Desktop**
 
   *most recent in KevaOne GitHub*
 
