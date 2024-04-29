@@ -32,13 +32,19 @@
 
   https://github.com/kevacoin-team/keva_ipfs
 
-- **Keva Stratum** - Mining Interface
+- **Keva Stratum** - Solo Mining Interface
 
   **- requires Kevacoin Desktop**
 
   *most recent in KevaOne GitHub*
 
   https://github.com/kevaone/keva-stratum
+
+- **Cryptonote-nodejs-pool** - Mining Pool
+
+  **- requires Kevacoin Desktop**
+
+  https://github.com/kevacoin-team/cryptonote-nodejs-pool
 
 ### Tools
 - https://github.com/kevacoin-team/keva-api-js
